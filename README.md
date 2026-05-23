@@ -19,6 +19,22 @@ This is Public Beta 1. It is a working public review release, not legal advice, 
 - Full launch remains blocked until resident, reporter, supporter/opponent, bot, and source gates pass.
 - Depolarization remains unproven and must be tested.
 
+## Language Access
+
+The public quick cards now use a language-access baseline rather than a bilingual carveout:
+
+- English
+- Spanish
+- Chinese
+- Tagalog/Filipino
+- Vietnamese
+- Arabic
+- French
+- Korean
+- Portuguese
+
+The downloadable kit is at `language-access/language-access-quick-cards-v1.0-public-beta-1.txt`. These are draft plain-language cards; English controls until a local reviewer checks wording, dialect, and reading level.
+
 ## Bundled Downloads
 
 The `research-package/` folder contains the RC3 PDF artifacts and RC2 workbook files linked from the site.
